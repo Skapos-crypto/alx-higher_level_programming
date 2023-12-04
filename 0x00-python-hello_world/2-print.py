@@ -1,3 +1,1 @@
-massage = "Programming is like building a multilingual puzzle"
-print(massage)
-
+print("Programming is like building a multilingual puzzle")
